@@ -1,5 +1,5 @@
 # SMART-TRASH
-#Time started: 2/2024
+# Time started: 2/2024
 This is a project me and my friend did for our class.
 A smart trash bin can be controlled with an ESP32 and arduino nano.
 The trash can lid was controlled by two servo motors to open and close when received signal.
